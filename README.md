@@ -15,7 +15,4 @@ Visit the live version <a href="https://pearmeow.github.io/weather-app" rel="noo
 
 Credits
 -------
-<a href="" rel="noopener noreferrer">Something by some person</a>
-<br>
-<a href="" rel="noopener noreferrer">Another thing by another person</a>
-<br>
+<a href="https://www.visualcrossing.com/" rel="noopener noreferrer">Visual Crossing</a> for their API!
