@@ -1,5 +1,5 @@
-<h1 align="center">Template</h1>
-Template for projects
+<h1 align="center">Weather App</h1>
+Weather App
 
 Features
 --------
