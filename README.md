@@ -11,7 +11,7 @@ Features
 
 How to use this project
 -----------------------
-Visit the live version <a href="https://pearmeow.github.io/weather-app" rel="noopener noreferrer">here</a>! Or clone the repo and run `npx webpack serve` in the project's root directory.
+Visit the live version <a href="https://pearmeow.github.io/weather-app" rel="noopener noreferrer">here</a>! Or clone the repo and run `npm run build` in the project's root directory, then visit dist/index.html.
 
 Credits
 -------
