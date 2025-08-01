@@ -3,9 +3,9 @@ Weather App
 
 Features
 --------
-- [ ] Function that gets information from API
-- [ ] Modify function to get information based on location
-- [ ] Modify function to only return necessary data (temperature, weather, maybe others)
+- [x] Function that gets information from API
+- [x] Modify function to get information based on location
+- [x] Modify function to only return necessary data (temperature, weather, maybe others)
 - [ ] Add form for users to input location
 - [ ] Display information on page
 - [ ] Make page look presentable with css
