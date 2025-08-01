@@ -3,13 +3,17 @@ Weather App
 
 Features
 --------
-- Some feature
-- A feature, and maybe more to come
-
+- [ ] Function that gets information from API
+- [ ] Modify function to get information based on location
+- [ ] Modify function to only return necessary data (temperature, weather, maybe others)
+- [ ] Add form for users to input location
+- [ ] Display information on page
+- [ ] Make page look presentable with css
+- [ ] Extra: Add a loading bar for the time in between fetching the information and displaying it
 
 How to use this project
 -----------------------
-Visit the live version <a href="" rel="noopener noreferrer">here</a>! Or clone the repo and run `npx webpack serve` in the project's root directory. (or if the project is just static, open index.html on your favorite browser!)
+Visit the live version <a href="https://pearmeow.github.io/weather-app" rel="noopener noreferrer">here</a>! Or clone the repo and run `npx webpack serve` in the project's root directory.
 
 Credits
 -------
