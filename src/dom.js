@@ -1,6 +1,6 @@
 console.log("This is the dom module");
 
-const body = document.querySelector("body");
+const info = document.querySelector(".info");
 
 export function displayInfo(address, temp, conditions, desc) {
     const newPara = document.createElement("p");
@@ -13,6 +13,6 @@ export function displayInfo(address, temp, conditions, desc) {
         conditions +
         " " +
         desc;
-    body.replaceChildren();
-    body.appendChild(newPara);
+    info.replaceChildren();
+    info.appendChild(newPara);
 }

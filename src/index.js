@@ -28,4 +28,14 @@ async function getLocationWeather(location = "", key) {
     );
 }
 
+const form = document.querySelector("form");
+const input = document.querySelector("input");
+
+form.addEventListener("submit", (event) => {
+    getLocationWeather(input.value, key).catch(() => {
+        input.value = "Invalid location!";
+    });
+    event.preventDefault();
+});
+
 getLocationWeather("New Jersey", key).catch(() => console.log("Error!!"));
